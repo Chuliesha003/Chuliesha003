@@ -25,7 +25,7 @@ Here are some of the projects I have worked on:
 - **School Management System** 🏫  
   A system for managing students, teachers, and classes with CRUD functionalities.
 
- -**HappyTails – Pet Care Management System** 🐾
+ - **HappyTails – Pet Care Management System** 🐾
   A full-stack web application to manage pet profiles, health records, and care information.
 
  Features: Add/edit pet profiles, track health records, upload pet photos, and view articles on pet care.
