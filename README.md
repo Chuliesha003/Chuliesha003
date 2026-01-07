@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Chuliesha Perera
+# Hi 👋 I'm Chuliesha
 
-🎓 **BIT Undergraduate** – University of Moratuwa (External)  
-💻 Aspiring Full-Stack Developer | Passionate about building practical web applications and solving problems  
+🎓 BIT Undergraduate at University of Moratuwa (External)  
+💻 Learning Full-Stack Development  
+🐾 Working on projects like HappyTails
 
----
 
 ## 🛠️ Skills
 
@@ -45,7 +45,9 @@ Here are some of the projects I have worked on:
 ## 📫 Connect with me
 
 - [LinkedIn](www.linkedin.com/in/chuliesha-perera-y2003)  
-  
+
+  Add profile README
+
 
 
 
