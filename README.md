@@ -2,7 +2,7 @@
 
 🎓 BIT Undergraduate at University of Moratuwa (External)  
 💻 Learning Full-Stack Development  
-🐾 Working on projects like HappyTails
+
 
 
 ## 🛠️ Skills
@@ -46,7 +46,6 @@ Here are some of the projects I have worked on:
 
 - [LinkedIn](www.linkedin.com/in/chuliesha-perera-y2003)  
 
-  Add profile README
 
 
 
